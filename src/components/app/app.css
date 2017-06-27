@@ -1,0 +1,17 @@
+.neck {
+    display: flex;
+    flex-direction: column;
+}
+
+.string {
+    display: flex;
+}
+
+.fret {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 60px;
+    margin: 2px;
+    background-color: green;
+}
